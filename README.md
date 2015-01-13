@@ -7,5 +7,8 @@
 5. 	Instalar github para windows
 6. 	Descargar repositorio mediante zip
 7.  Clonar repositorio propio
-8. 	Clonar repositorio ajeno
 9. 	Crear repositorio localmente
+10. Sincronizar cambios en repositorios.
+11. Actualizar cambios desde la web y sincronizándolos con local
+12. Actualizar cambios realizados en otras máquinas
+11. Clonar repositorio ajeno 
